@@ -66,3 +66,4 @@
 - Liquid Time-constant Networks https://arxiv.org/pdf/2006.04439.pdf
 - Beyond spiking networks: the computational advantages of dendritic amplification and input segregation
 - Time-encoded multiplication-free spiking neural networks: application to data classification tasks https://link.springer.com/content/pdf/10.1007/s00521-022-07910-1.pdf?pdf=button
+- Insect-Inspired Spiking Neural Controllers for Adaptive Behaviors in Bio-Robots https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955469&tag=1
