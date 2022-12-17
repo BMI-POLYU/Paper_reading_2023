@@ -67,3 +67,4 @@
 - Beyond spiking networks: the computational advantages of dendritic amplification and input segregation
 - Time-encoded multiplication-free spiking neural networks: application to data classification tasks https://link.springer.com/content/pdf/10.1007/s00521-022-07910-1.pdf?pdf=button
 - Insect-Inspired Spiking Neural Controllers for Adaptive Behaviors in Bio-Robots https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955469&tag=1
+- A data-based large-scale model for primary visual cortex enables brain-like robust and versatile visual processing [https://www.science.org/doi/10.1126/sciadv.abq7592]
