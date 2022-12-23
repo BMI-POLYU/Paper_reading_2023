@@ -69,3 +69,6 @@
 - Insect-Inspired Spiking Neural Controllers for Adaptive Behaviors in Bio-Robots https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955469&tag=1
 - A data-based large-scale model for primary visual cortex enables brain-like robust and versatile visual processing [https://www.science.org/doi/10.1126/sciadv.abq7592]
 - Sleep-like unsupervised replay reduces catastrophic forgetting in artificial neural networks [https://www.nature.com/articles/s41467-022-34938-7]
+- SYNAPTIC DYNAMICS REALIZE FIRST-ORDER ADAPTIVE LEARNING AND WEIGHT SYMMETRY [https://arxiv.org/pdf/2212.09440.pdf]
+- SNN: Time step reduction of spiking surrogate gradients for training energy efficient single-step spiking neural networks [https://www.sciencedirect.com/science/article/pii/S0893608022005007]
+- Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks [https://arxiv.org/pdf/2212.09500.pdf]
