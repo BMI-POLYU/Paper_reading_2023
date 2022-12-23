@@ -14,7 +14,7 @@
 | 2/1 | Song Zeyang | [DDDM: A Brain-Inspired Framework for Robust Classification (IJCAI-22)](https://www.ijcai.org/proceedings/2022/0397.pdf) | | |
 
 # Presentation Slides 
-[Google Drive](https://drive.google.com/drive/folders/1NeEbtNGvgO8z0j7RLd0dtGQz6jp1WklV?usp=sharing) 
+[Google Drive](https://drive.google.com/drive/folders/1LesEh5-bRQO0hIiFL4h5mPsh9ewuJ9go?usp=share_link) 
 
 # Continue Updating
 - Backpropagation through the Void: Optimizing control variates for black-box gradient estimation
