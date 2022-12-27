@@ -75,3 +75,4 @@
 - SNN: Time step reduction of spiking surrogate gradients for training energy efficient single-step spiking neural networks [https://www.sciencedirect.com/science/article/pii/S0893608022005007]
 - Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks [https://arxiv.org/pdf/2212.09500.pdf]
 - HOYER REGULARIZER IS ALL YOU NEED FOR ULTRA LOW-LATENCY SPIKING NEURAL NETWORKS [https://arxiv.org/pdf/2212.10170.pdf]
+- Learning efficient backprojections across cortical hierarchies in real time [https://arxiv.org/pdf/2212.10249.pdf]
