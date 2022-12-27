@@ -76,3 +76,4 @@
 - Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks [https://arxiv.org/pdf/2212.09500.pdf]
 - HOYER REGULARIZER IS ALL YOU NEED FOR ULTRA LOW-LATENCY SPIKING NEURAL NETWORKS [https://arxiv.org/pdf/2212.10170.pdf]
 - Learning efficient backprojections across cortical hierarchies in real time [https://arxiv.org/pdf/2212.10249.pdf]
+- Synaptic basis of a sub-second representation of time in a neural circuit model [https://www.nature.com/articles/s41467-022-35395-y]
