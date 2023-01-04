@@ -2,8 +2,8 @@
 
 | Date | Presenter | Title | Keywords | Others Resources |
 | -- | -- | -- | -- | -- |
-| 1/4  | Yang Qu | [Embodied Intelligence via Learning and Evolution (Nature Communications)](https://www.nature.com/articles/s41467-021-25874-z) | Embodied intelligence, evolution, reinforcement learning | https://github.com/agrimgupta/derl |
-| 1/4  | Song Zeyang | [A convolutional neural-network framework for modelling auditory sensory cells and synapses (Nature Communications Biology)](https://www.nature.com/articles/s42003-021-02341-5) | Cochlear model, auditory model | https://github.com/HearingTechnology/CoNNear_IHC-ANF |
+| 1/4  | Yang Qu | [Embodied Intelligence via Learning and Evolution (Nature Communications)](https://www.nature.com/articles/s41467-021-25874-z) | Embodied intelligence, evolution, reinforcement learning | [code](https://github.com/agrimgupta/derl) |
+| 1/4  | Song Zeyang | [A convolutional neural-network framework for modelling auditory sensory cells and synapses (Nature Communications Biology)](https://www.nature.com/articles/s42003-021-02341-5) | Cochlear model, auditory model | [code](https://github.com/HearingTechnology/CoNNear_IHC-ANF) |
 | 1/11 | Chen Xinyi | [Exploring the Brain-like Properties of Deep Neural Networks A Neural Encoding Perspective](https://link.springer.com/content/pdf/10.1007/s11633-022-1348-x.pdf?pdf=button%20sticky) | | |
 | 1/11 | Ma Chenxiang | [A Computational Model for Storing Memories in the Synaptic Structures of the Brain](https://www.biorxiv.org/content/10.1101/2022.10.21.513291v1) | | |
 | 1/18 | Yang Qu | [Network Binarization via Contrastive Learning](https://arxiv.org/pdf/2207.02970.pdf) | | |
