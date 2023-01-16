@@ -78,3 +78,4 @@
 - Learning efficient backprojections across cortical hierarchies in real time [https://arxiv.org/pdf/2212.10249.pdf]
 - Synaptic basis of a sub-second representation of time in a neural circuit model [https://www.nature.com/articles/s41467-022-35395-y]
 - AN EXACT MAPPING FROM RELU NETWORKS TO SPIKING NEURAL NETWORKS [https://arxiv.org/pdf/2212.12522.pdf]
+- The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks
