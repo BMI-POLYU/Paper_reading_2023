@@ -5,13 +5,13 @@
 | 1/4  | Yang Qu | [Embodied Intelligence via Learning and Evolution (Nature Communications)](https://www.nature.com/articles/s41467-021-25874-z) | Embodied intelligence, evolution, reinforcement learning | [code](https://github.com/agrimgupta/derl) |
 | 1/4  | Song Zeyang | [A convolutional neural-network framework for modelling auditory sensory cells and synapses (Nature Communications Biology)](https://www.nature.com/articles/s42003-021-02341-5) | Cochlear model, auditory model | [code](https://github.com/HearingTechnology/CoNNear_IHC-ANF) |
 | 1/11 | Chen Xinyi | [Exploring the Brain-like Properties of Deep Neural Networks A Neural Encoding Perspective](https://link.springer.com/content/pdf/10.1007/s11633-022-1348-x.pdf?pdf=button%20sticky) | | |
-| 1/11 | Ma Chenxiang | [A Computational Model for Storing Memories in the Synaptic Structures of the Brain](https://www.biorxiv.org/content/10.1101/2022.10.21.513291v1) | | |
-| 1/18 | Yang Qu | [Network Binarization via Contrastive Learning](https://arxiv.org/pdf/2207.02970.pdf) | | |
-| 1/18 | Song Zeyang| [Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs](https://cbmm.mit.edu/sites/default/files/publications/2019-10-28%20NeurIPS-camera_ready.pdf) | | |
+| 1/11 | Ma Chenxiang | [A Computational Model for Storing Memories in the Synaptic Structures of the Brain](https://www.biorxiv.org/content/10.1101/2022.10.21.513291v1) | Memory, STDP | |
+| 1/18 | Yang Qu | [Network Binarization via Contrastive Learning](https://arxiv.org/pdf/2207.02970.pdf) | Neural Network Compression, Network Binarization, Contrastive Learning, Mutual Information Maximization | [code](https://github.com/42Shawn/CMIM) |
+| 1/18 | Song Zeyang| [Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs](https://cbmm.mit.edu/sites/default/files/publications/2019-10-28%20NeurIPS-camera_ready.pdf) | Brain-like model, ventral visual stream, BrainScore | [code](https://github.com/dicarlolab/cornet) |
 | 1/25 | Chen Xinyi | [Understanding the role of individual units in a deep neural network.](https://www.pnas.org/doi/full/10.1073/pnas.1907375117) | | |
 | 1/25 | Ma Chenxiang | [SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks (ICML-21)](https://ruyuanzhang.github.io/files/2107_ICML.pdf) | | |
 | 2/1  | Yang Qu | [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR 22)](http://openaccess.thecvf.com//content/CVPR2022/html/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.html) | | |
-| 2/1 | Song Zeyang | [DDDM: A Brain-Inspired Framework for Robust Classification (IJCAI-22)](https://www.ijcai.org/proceedings/2022/0397.pdf) | | |
+| 2/1 | Song Zeyang | [DDDM: A Brain-Inspired Framework for Robust Classification (IJCAI-22)](https://www.ijcai.org/proceedings/2022/0397.pdf) | Brain-inspired neural networks, robust training | [code](https://github.com/XiYuan68/DDDM) |
 
 # Presentation Slides 
 [Google Drive](https://drive.google.com/drive/folders/1LesEh5-bRQO0hIiFL4h5mPsh9ewuJ9go?usp=share_link) 
