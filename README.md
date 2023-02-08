@@ -80,4 +80,3 @@
 - Learning efficient backprojections across cortical hierarchies in real time [https://arxiv.org/pdf/2212.10249.pdf]
 - Synaptic basis of a sub-second representation of time in a neural circuit model [https://www.nature.com/articles/s41467-022-35395-y]
 - The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks [https://reader.elsevier.com/reader/sd/pii/S0896627322010807?token=F1B497DA01EF9AC868D629C368D44F099CCB3136EFA74F03611311EDF54C897F5807CA922A734B3558E5B6D14956CC0A&originRegion=us-east-1&originCreation=20230116004002]
-- Embodied neuromorphic intelligence
