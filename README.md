@@ -8,30 +8,34 @@
 | 1/11 | Ma Chenxiang | [A Computational Model for Storing Memories in the Synaptic Structures of the Brain](https://www.biorxiv.org/content/10.1101/2022.10.21.513291v1) | Memory, STDP | |
 | 1/18 | Yang Qu | [Network Binarization via Contrastive Learning](https://arxiv.org/pdf/2207.02970.pdf) | Neural Network Compression, Network Binarization, Contrastive Learning, Mutual Information Maximization | [code](https://github.com/42Shawn/CMIM) |
 | 1/18 | Song Zeyang| [Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs](https://cbmm.mit.edu/sites/default/files/publications/2019-10-28%20NeurIPS-camera_ready.pdf) | Brain-like model, ventral visual stream, BrainScore | [code](https://github.com/dicarlolab/cornet) |
-| 1/25 | Chen Xinyi | [Understanding the role of individual units in a deep neural network.](https://www.pnas.org/doi/full/10.1073/pnas.1907375117) | Computer vision, Network dissection, Adversarial attacks | |
-| 1/25 | Ma Chenxiang | [SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks (ICML-21)](https://ruyuanzhang.github.io/files/2107_ICML.pdf) | | [code](https://github.com/ZjjConan/SimAM) |
-| 2/1  | Yang Qu | [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR 22)](http://openaccess.thecvf.com//content/CVPR2022/html/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.html) | | |
+| 1/25 | Chen Xinyi | [Understanding the role of individual units in a deep neural network.](https://www.pnas.org/doi/full/10.1073/pnas.1907375117) | | |
+| 1/25 | Ma Chenxiang | [SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks (ICML-21)](https://ruyuanzhang.github.io/files/2107_ICML.pdf) | | |
 | 2/1 | Song Zeyang | [DDDM: A Brain-Inspired Framework for Robust Classification (IJCAI-22)](https://www.ijcai.org/proceedings/2022/0397.pdf) | Brain-inspired neural networks, robust training | [code](https://github.com/XiYuan68/DDDM) |
+| 2/8  | Yang Qu | [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR 22)](http://openaccess.thecvf.com//content/CVPR2022/html/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.html) | | |
+| 2/8  | Song Zeyang | [Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules ](https://arxiv.org/pdf/2206.00823.pdf) | | |
+| 2/15 | Zhang Shimin | [Architectures of neuronal circuits](https://www.science.org/doi/10.1126/science.abg7285) | | |
+| 2/22 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots
+](https://www.science.org/doi/10.1126/scirobotics.abk2948) | | |
+| 2/22 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | | |
+| 3/1  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | | |
+| 3/1  | Song Zeyang | [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://arxiv.org/abs/2001.07092) | | |
+
 
 # Presentation Slides 
 [Google Drive](https://drive.google.com/drive/folders/1LesEh5-bRQO0hIiFL4h5mPsh9ewuJ9go?usp=share_link) 
 
 # Continue Updating
 - Backpropagation through the Void: Optimizing control variates for black-box gradient estimation
-- Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future
 - Replay in Deep Learning: Current Approaches and Missing Biological Elements 
 - Perception in real-time: predicting the present, reconstructing the past
 - Evolutionary training and abstraction yields algorithmic generalization of neural computers
 - Compartmentalized dendritic plasticity during associative learning (Science)
-- Current State and Future Directions for Learning in Biological Recurrent Neural Networks: A Perspective Piece
 - Hypothesis-driven Online Video Stream Learning with Augmented Memory（https://arxiv.org/abs/2104.02206）
 - GAN Memory with No Forgetting (NIPS 2020)](https://papers.nips.cc/paper/2020/file/bf201d5407a6509fa536afc4b380577e-Paper.pdf)
 - Transfer without Forgetting https://arxiv.org/pdf/2206.00388.pdf
 - Towards mental time travel: a hierarchical memory for reinforcement learning agents
 - Memory-inspired spiking hyperdimensional network for robust online learning
 - Dendritic predictive coding: A theory of cortical computation with spiking neurons https://arxiv.org/pdf/2205.05303.pdf
-- Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules https://arxiv.org/pdf/2206.00823.pdf
-- Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators https://arxiv.org/pdf/2206.01338.pdf
 - Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots
 - Spike Calibration: Fast and Accurate Conversion of Spiking Neural Network for Object Detection and Segmentation
 - Learning in deep neural networks and brains with similarity-weighted interleaved learning (PNAS)
@@ -66,7 +70,6 @@
 - Event-Based Video Reconstruction Via Potential-Assisted Spiking Neural Network (CVPR 22)
 - Spikeformer: A Novel Architecture for Training High-Performance Low-Latency Spiking Neural Network [https://arxiv.org/pdf/2211.10686.pdf]
 - Liquid Time-constant Networks https://arxiv.org/pdf/2006.04439.pdf
-- Beyond spiking networks: the computational advantages of dendritic amplification and input segregation
 - Time-encoded multiplication-free spiking neural networks: application to data classification tasks https://link.springer.com/content/pdf/10.1007/s00521-022-07910-1.pdf?pdf=button
 - Insect-Inspired Spiking Neural Controllers for Adaptive Behaviors in Bio-Robots https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955469&tag=1
 - A data-based large-scale model for primary visual cortex enables brain-like robust and versatile visual processing [https://www.science.org/doi/10.1126/sciadv.abq7592]
@@ -77,7 +80,5 @@
 - HOYER REGULARIZER IS ALL YOU NEED FOR ULTRA LOW-LATENCY SPIKING NEURAL NETWORKS [https://arxiv.org/pdf/2212.10170.pdf]
 - Learning efficient backprojections across cortical hierarchies in real time [https://arxiv.org/pdf/2212.10249.pdf]
 - Synaptic basis of a sub-second representation of time in a neural circuit model [https://www.nature.com/articles/s41467-022-35395-y]
-- AN EXACT MAPPING FROM RELU NETWORKS TO SPIKING NEURAL NETWORKS [https://arxiv.org/pdf/2212.12522.pdf]
 - The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks [https://reader.elsevier.com/reader/sd/pii/S0896627322010807?token=F1B497DA01EF9AC868D629C368D44F099CCB3136EFA74F03611311EDF54C897F5807CA922A734B3558E5B6D14956CC0A&originRegion=us-east-1&originCreation=20230116004002]
-- Introducing the Dendrify framework for incorporating dendrites to spiking neural networks 
 - Embodied neuromorphic intelligence
