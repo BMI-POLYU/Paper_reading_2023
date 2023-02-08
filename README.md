@@ -14,8 +14,7 @@
 | 2/8  | Yang Qu | [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR 22)](http://openaccess.thecvf.com//content/CVPR2022/html/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.html) | | |
 | 2/8  | Song Zeyang | [Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules ](https://arxiv.org/pdf/2206.00823.pdf) | | |
 | 2/15 | Zhang Shimin | [Architectures of neuronal circuits](https://www.science.org/doi/10.1126/science.abg7285) | | |
-| 2/22 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots
-](https://www.science.org/doi/10.1126/scirobotics.abk2948) | | |
+| 2/22 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots](https://www.science.org/doi/10.1126/scirobotics.abk2948) | | |
 | 2/22 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | | |
 | 3/1  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | | |
 | 3/1  | Song Zeyang | [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://arxiv.org/abs/2001.07092) | | |
