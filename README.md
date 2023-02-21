@@ -11,19 +11,24 @@
 | 1/25 | Chen Xinyi | [Understanding the role of individual units in a deep neural network.](https://www.pnas.org/doi/full/10.1073/pnas.1907375117) | Computer vision, Network dissection, Adversarial attacks | |
 | 1/25 | Ma Chenxiang | [SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks (ICML-21)](https://ruyuanzhang.github.io/files/2107_ICML.pdf) | | [code](https://github.com/ZjjConan/SimAM)|
 | 2/1 | Song Zeyang | [DDDM: A Brain-Inspired Framework for Robust Classification (IJCAI-22)](https://www.ijcai.org/proceedings/2022/0397.pdf) | Brain-inspired neural networks, robust training | [code](https://github.com/XiYuan68/DDDM) |
-| 2/8  | Yang Qu | [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR 22)](http://openaccess.thecvf.com//content/CVPR2022/html/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.html) | Spiking Neural Network, Normalization techniques, membrane potential distribution | |
-| 2/8  | Song Zeyang | [Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules ](https://arxiv.org/pdf/2206.00823.pdf) | Bio-plausible algorithm, BPTT, RNN | |
-| 2/15 | Zhang Shimin | [Architectures of neuronal circuits](https://www.science.org/doi/10.1126/science.abg7285) | | |
-| 2/22 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots](https://www.science.org/doi/10.1126/scirobotics.abk2948) | | |
-| 2/22 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | | |
-| 3/1  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | | |
-| 3/1  | Song Zeyang | [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://arxiv.org/abs/2001.07092) | | |
+| 2/15  | Yang Qu | [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR 22)](http://openaccess.thecvf.com//content/CVPR2022/html/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.html) | Spiking Neural Network, Normalization techniques, membrane potential distribution | |
+| 2/15  | Song Zeyang | [Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules ](https://arxiv.org/pdf/2206.00823.pdf) | Bio-plausible algorithm, BPTT, RNN | |
+| 2/22 | Zhang Shimin | [Architectures of neuronal circuits](https://www.science.org/doi/10.1126/science.abg7285) | | |
+| 3/1 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots](https://www.science.org/doi/10.1126/scirobotics.abk2948) | | |
+| 3/1 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | | |
+| 3/8  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | | |
+| 3/8  | Song Zeyang | [Dendritic predictive coding: A theory of cortical computation with spiking neurons](https://arxiv.org/pdf/2205.05303.pdf) | | |
+| 3/15 | Ma Chenxiang | [Interactive continual learning for robots: a neuromorphic approach ](http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf)  | | |
+| 3/15 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning](https://bii.ia.ac.cn/~tielin.zhang/pdfs/NeuroComputing_2022_MDN.pdf)  | | |
+| 3/22  | Yang Qu | [Single-phase deep learning in cortico-cortical networks](https://arxiv.org/pdf/2206.11769.pdf) | | |
+| 3/22  | Song Zeyang | [Multimodal Speech Enhancement Using Burst Propagation](https://arxiv.org/abs/2209.03275) | | |
 
 
 # Presentation Slides 
 [Google Drive](https://drive.google.com/drive/folders/1LesEh5-bRQO0hIiFL4h5mPsh9ewuJ9go?usp=share_link) 
 
 # Continue Updating
+- Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future
 - Backpropagation through the Void: Optimizing control variates for black-box gradient estimation
 - Replay in Deep Learning: Current Approaches and Missing Biological Elements 
 - Perception in real-time: predicting the present, reconstructing the past
@@ -34,21 +39,16 @@
 - Transfer without Forgetting https://arxiv.org/pdf/2206.00388.pdf
 - Towards mental time travel: a hierarchical memory for reinforcement learning agents
 - Memory-inspired spiking hyperdimensional network for robust online learning
-- Dendritic predictive coding: A theory of cortical computation with spiking neurons https://arxiv.org/pdf/2205.05303.pdf
-- Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots
-- Spike Calibration: Fast and Accurate Conversion of Spiking Neural Network for Object Detection and Segmentation
 - Learning in deep neural networks and brains with similarity-weighted interleaved learning (PNAS)
 - Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays (https://arxiv.org/pdf/2206.12992.pdf)
 - Modeling Associative Plasticity between Synapses to Enhance Learning of Spiking Neural Networks https://arxiv.org/pdf/2207.11670.pdf
-- Single-phase deep learning in cortico-cortical networks (https://arxiv.org/pdf/2206.11769.pdf)
 - Online Normalization for Training Neural Networks (https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html)
 - Neuro-symbolic computing with spiking neural networks (https://arxiv.org/pdf/2208.02576.pdf)
 - Cell-type-specific integration of feedforward and feedback synaptic inputs in the posterior parietal cortex (NEURON)
 - Optimizing Recurrent Spiking Neural Networks with Small Time Constants for Temporal Tasks
-- Multimodal Speech Enhancement Using Burst Propagation
+- Sleep-like unsupervised replay reduces catastrophic forgetting in artificial neural networks [https://www.nature.com/articles/s41467-022-34938-7]
 - Benchmarking Neuromorphic Computing for Inference (https://www.researchgate.net/profile/Simon-Narduzzi/publication/362412429_Benchmarking_Neuromorphic_Computing_for_Inference/links/630735aa61e4553b95389cf0/Benchmarking-Neuromorphic-Computing-for-Inference.pdf)
 - Cognitive Neuroscience of Time: Nows, Timelines, and Chronologies
-- Interactive continual learning for robots: a neuromorphic approach http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf
 - The neural coding framework for learning generative models
 - Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations
 - The cortical column: a structure without a function
@@ -72,7 +72,6 @@
 - Time-encoded multiplication-free spiking neural networks: application to data classification tasks https://link.springer.com/content/pdf/10.1007/s00521-022-07910-1.pdf?pdf=button
 - Insect-Inspired Spiking Neural Controllers for Adaptive Behaviors in Bio-Robots https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955469&tag=1
 - A data-based large-scale model for primary visual cortex enables brain-like robust and versatile visual processing [https://www.science.org/doi/10.1126/sciadv.abq7592]
-- Sleep-like unsupervised replay reduces catastrophic forgetting in artificial neural networks [https://www.nature.com/articles/s41467-022-34938-7]
 - SYNAPTIC DYNAMICS REALIZE FIRST-ORDER ADAPTIVE LEARNING AND WEIGHT SYMMETRY [https://arxiv.org/pdf/2212.09440.pdf]
 - SNN: Time step reduction of spiking surrogate gradients for training energy efficient single-step spiking neural networks [https://www.sciencedirect.com/science/article/pii/S0893608022005007]
 - Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks [https://arxiv.org/pdf/2212.09500.pdf]
