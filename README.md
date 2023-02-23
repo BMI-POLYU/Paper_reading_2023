@@ -15,13 +15,13 @@
 | 2/15  | Song Zeyang | [Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules ](https://arxiv.org/pdf/2206.00823.pdf) | Bio-plausible algorithm, BPTT, RNN | |
 | 2/22 | Zhang Shimin | [Architectures of neuronal circuits](https://www.science.org/doi/10.1126/science.abg7285) | | |
 | 3/1 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots](https://www.science.org/doi/10.1126/scirobotics.abk2948) | | |
-| 3/1 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | | |
-| 3/8  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | | |
-| 3/8  | Song Zeyang | [Dendritic predictive coding: A theory of cortical computation with spiking neurons](https://arxiv.org/pdf/2205.05303.pdf) | | |
-| 3/15 | Ma Chenxiang | [Interactive continual learning for robots: a neuromorphic approach ](http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf)  | | |
-| 3/15 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning](https://bii.ia.ac.cn/~tielin.zhang/pdfs/NeuroComputing_2022_MDN.pdf)  | | |
-| 3/22  | Yang Qu | [Single-phase deep learning in cortico-cortical networks](https://arxiv.org/pdf/2206.11769.pdf) | | |
-| 3/22  | Song Zeyang | [Multimodal Speech Enhancement Using Burst Propagation](https://arxiv.org/abs/2209.03275) | | |
+| 3/8 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | | |
+| 3/15  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | | |
+| 3/22  | Song Zeyang | [Dendritic predictive coding: A theory of cortical computation with spiking neurons](https://arxiv.org/pdf/2205.05303.pdf) | | |
+| 3/29 | Ma Chenxiang | [Interactive continual learning for robots: a neuromorphic approach ](http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf)  | | |
+| 4/5 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning](https://bii.ia.ac.cn/~tielin.zhang/pdfs/NeuroComputing_2022_MDN.pdf)  | | |
+| 4/12  | Yang Qu | [Single-phase deep learning in cortico-cortical networks](https://arxiv.org/pdf/2206.11769.pdf) | | |
+| 4/19  | Song Zeyang | [Multimodal Speech Enhancement Using Burst Propagation](https://arxiv.org/abs/2209.03275) | | |
 
 
 # Presentation Slides 
