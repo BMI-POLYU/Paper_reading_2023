@@ -13,12 +13,12 @@
 | 2/1 | Song Zeyang | [DDDM: A Brain-Inspired Framework for Robust Classification (IJCAI-22)](https://www.ijcai.org/proceedings/2022/0397.pdf) | Brain-inspired neural networks, robust training | [code](https://github.com/XiYuan68/DDDM) |
 | 2/15  | Yang Qu | [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR 22)](http://openaccess.thecvf.com//content/CVPR2022/html/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.html) | Spiking Neural Network, Normalization techniques, membrane potential distribution | |
 | 2/15  | Song Zeyang | [Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules ](https://arxiv.org/pdf/2206.00823.pdf) | Bio-plausible algorithm, BPTT, RNN | |
-| 2/22 | Zhang Shimin | [Architectures of neuronal circuits](https://www.science.org/doi/10.1126/science.abg7285) | | |
-| 3/1 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots](https://www.science.org/doi/10.1126/scirobotics.abk2948) | | |
-| 3/8 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | | |
-| 3/15  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | | |
-| 3/22 | Song Zeyang | [Dance of SNN and ANN: Solving Binding Problem By Combining Spike Timing and Reconstructive Attention](https://openreview.net/forum?id=-yiZR4_Xhh) | | |
-| 3/29 | Chen Xinyi | [IM-Loss: Information Maximization Loss for Spiking Neural Networks](https://openreview.net/forum?id=Jw34v_84m2b) | | |
+| 2/22 | Zhang Shimin | [Architectures of neuronal circuits](https://www.science.org/doi/10.1126/science.abg7285) | Neuronal circuits architectures, circuit motifs, specialized architectures | |
+| 3/1 | Chen Xinyi | [Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots](https://www.science.org/doi/10.1126/scirobotics.abk2948) | Neuromorphic chips, TianjicX, Rivulet,  Multi-intelligent-tasking Robotics, Cat and Mouse | |
+| 3/8 | Ma Chenxiang | [Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators](https://arxiv.org/pdf/2206.01338.pdf) | Biologically plausible learning rule, BPTT, RNN | [code](https://github.com/helena-yuhan-liu/modprop) |
+| 3/15  | Yang Qu | [Introducing the Dendrify framework for incorporating dendrites to spiking neural networks ](https://www.nature.com/articles/s41467-022-35747-8) | Spiking Neural networks, morphologically detailed neuron models, reduced compartmental neuron models | [code](https://github.com/Poirazi-Lab/dendrify) |
+| 3/22 | Song Zeyang | [Dance of SNN and ANN: Solving Binding Problem By Combining Spike Timing and Reconstructive Attention](https://openreview.net/forum?id=-yiZR4_Xhh) | Binding problem, hybrid neural networks, cortical circuit | [code](https://github.com/monstersecond/DASBE) |
+| 3/29 | Chen Xinyi | [IM-Loss: Information Maximization Loss for Spiking Neural Networks](https://openreview.net/forum?id=Jw34v_84m2b) | Spiking neural networks(SNN), IM-Loss, Evolutionary surrogate gradient(ESG) | |
 | 4/5 | Ma Chenxiang | [Mesoscopic Modeling of Hidden Spiking Neurons](https://openreview.net/forum?id=cYPja_wj9d) | | |
 | 4/12 | Yang Qu | [Toward Robust Spiking Neural Network Against Adversarial Perturbation](https://openreview.net/forum?id=Ncyc0JS7Q16) | | |
 | 4/19 | Song Zeyang | [SNN-RAT: Robustness-enhanced Spiking Neural Network Through Regularized Adversarial Training](https://openreview.net/forum?id=xwBdjfKt7_W) | | |
