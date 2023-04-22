@@ -22,26 +22,25 @@
 | 4/5 | Ma Chenxiang | [Mesoscopic Modeling of Hidden Spiking Neurons](https://openreview.net/forum?id=cYPja_wj9d) | | |
 | 4/12 | Yang Qu | [Toward Robust Spiking Neural Network Against Adversarial Perturbation](https://openreview.net/forum?id=Ncyc0JS7Q16) | | |
 | 4/19 | Song Zeyang | [SNN-RAT: Robustness-enhanced Spiking Neural Network Through Regularized Adversarial Training](https://openreview.net/forum?id=xwBdjfKt7_W) | | |
-| 4/26 | Chen Xinyi | [Theoretically Provable Spiking Neural Networks](https://openreview.net/forum?id=I0CiI7Oyp1E) | | |
-| 5/3 | Ma Chenxiang | [Training Spiking Neural Networks with Event-driven Backpropagation](https://openreview.net/forum?id=d4JmP1T45WE) | | |
-| 5/10 | Yang Qu | [Biologically Plausible Solutions for Spiking Networks with Efficient Coding](https://openreview.net/forum?id=zdmYnIRXvKS) | | |
-| 5/17 | Song Zeyang | [Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI) | | |
-| 5/24 | Chen Xinyi | [Emergence of Hierarchical Layers in A Single Sheet of Self-Organizing Spiking Neurons](https://openreview.net/forum?id=cPVuuk1lZb3) | | |
-| 5/31 | Ma Chenxiang | [Differentiable Hierarchical and Surrogate Gradient Search for Spiking Neural Networks](https://openreview.net/forum?id=Lr2Z85cdvB) | | |
-| 6/7 | Yang Qu | [GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks](https://openreview.net/forum?id=UmFSx2c4ubT) | | |
-| 6/14 | Song Zeyang | [Population Geometry Enables Fast Sampling in Spiking Neural Networks](https://openreview.net/forum?id=Yopob26XjmL) | | |
-| 6/21 | Chen Xinyi | [DTMD: Learning Improvement of Spiking Neural Networks with Dynamic Thresholding Neurons and Moderate Dropout](https://openreview.net/forum?id=BbaSRgUHW3) | | |
-| 6/28 | Ma Chenxiang | [Biologically Inspired Dynamic Thresholds for Spiking Neural Networks](https://openreview.net/forum?id=1bE24ZURBqm) | | |
-| 7/5 | Yang Qu | [Temporal Effective Batch Normalization in Spiking Neural Networks](https://openreview.net/forum?id=fLIgyyQiJqz) | | |
-| 7/12 | Song Zeyang | [Spikformer: When Spiking Neural Network Meets Transformer](https://openreview.net/forum?id=frE4fUwz_h) | | |
-| 7/19 | Chen Xinyi | [Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles](https://openreview.net/forum?id=QIRtAqoXwj) | | |
-| 7/26 | Ma Chenxiang | [Spiking Convolutional Neural Networks for Text Classification](https://openreview.net/forum?id=pgU3k7QXuz0) | | |
-| 8/2  | Yang Qu | [Dendritic predictive coding: A theory of cortical computation with spiking neurons](https://arxiv.org/pdf/2205.05303.pdf) | | |
-| 8/9 | Song Zeyang | [Interactive continual learning for robots: a neuromorphic approach ](http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf)  | | |
-| 8/16 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning](https://bii.ia.ac.cn/~tielin.zhang/pdfs/NeuroComputing_2022_MDN.pdf)  | | |
-| 8/23  | Ma Chenxiang | [Single-phase deep learning in cortico-cortical networks](https://arxiv.org/pdf/2206.11769.pdf) | | |
-| 8/30  | Yang Qu | [Multimodal Speech Enhancement Using Burst Propagation](https://arxiv.org/abs/2209.03275) | | |
-
+| 5/17 | Chen Xinyi | [Theoretically Provable Spiking Neural Networks](https://openreview.net/forum?id=I0CiI7Oyp1E) | | |
+| 5/24| Ma Chenxiang | [Training Spiking Neural Networks with Event-driven Backpropagation](https://openreview.net/forum?id=d4JmP1T45WE) | | |
+| 5/31 | Yang Qu | [Biologically Plausible Solutions for Spiking Networks with Efficient Coding](https://openreview.net/forum?id=zdmYnIRXvKS) | | |
+| 6/7 | Song Zeyang | [Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI) | | |
+| 6/14 | Chen Xinyi | [Emergence of Hierarchical Layers in A Single Sheet of Self-Organizing Spiking Neurons](https://openreview.net/forum?id=cPVuuk1lZb3) | | |
+| 6/21 | Ma Chenxiang | [Differentiable Hierarchical and Surrogate Gradient Search for Spiking Neural Networks](https://openreview.net/forum?id=Lr2Z85cdvB) | | |
+| 6/28 | Yang Qu | [GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks](https://openreview.net/forum?id=UmFSx2c4ubT)| | |
+| 7/5 | Song Zeyang | [Population Geometry Enables Fast Sampling in Spiking Neural Networks](https://openreview.net/forum?id=Yopob26XjmL) | | |
+| 7/12 | Chen Xinyi | [DTMD: Learning Improvement of Spiking Neural Networks with Dynamic Thresholding Neurons and Moderate Dropout](https://openreview.net/forum?id=BbaSRgUHW3) | | |
+| 7/19 | Ma Chenxiang | [Biologically Inspired Dynamic Thresholds for Spiking Neural Networks](https://openreview.net/forum?id=1bE24ZURBqm) | | |
+| 7/26 | Yang Qu | [Temporal Effective Batch Normalization in Spiking Neural Networks](https://openreview.net/forum?id=fLIgyyQiJqz) | | |
+| 8/2 | Song Zeyang | [Spikformer: When Spiking Neural Network Meets Transformer](https://openreview.net/forum?id=frE4fUwz_h) | | |
+| 8/9 | Chen Xinyi | [Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles](https://openreview.net/forum?id=QIRtAqoXwj) | | |
+| 8/16 | Ma Chenxiang | [Spiking Convolutional Neural Networks for Text Classification](https://openreview.net/forum?id=pgU3k7QXuz0) | | |
+| 8/23  | Yang Qu | [Dendritic predictive coding: A theory of cortical computation with spiking neurons](https://arxiv.org/pdf/2205.05303.pdf) | | |
+| 8/30 | Song Zeyang | [Interactive continual learning for robots: a neuromorphic approach ](http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf)  | | |
+| 9/06 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning](https://bii.ia.ac.cn/~tielin.zhang/pdfs/NeuroComputing_2022_MDN.pdf)  | | |
+| 9/13  | Ma Chenxiang | [Single-phase deep learning in cortico-cortical networks](https://arxiv.org/pdf/2206.11769.pdf) | | |
+| 9/20  | Yang Qu | [Multimodal Speech Enhancement Using Burst Propagation](https://arxiv.org/abs/2209.03275) | | |
 
 # Presentation Slides 
 [Google Drive](https://drive.google.com/drive/folders/1LesEh5-bRQO0hIiFL4h5mPsh9ewuJ9go?usp=share_link) 
