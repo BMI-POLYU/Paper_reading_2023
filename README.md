@@ -25,11 +25,11 @@
 | 6/7 | Chen Xinyi | [Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks](https://arxiv.org/abs/2305.16044) | | |
 | 6/28| Ma Chenxiang | [Training Spiking Neural Networks with Event-driven Backpropagation](https://openreview.net/forum?id=d4JmP1T45WE) | | |
 | 7/5 | Yang Qu | [Online learning of long-range dependencies](https://arxiv.org/abs/2305.15947) | | |
-| 7/12 | Song Zeyang | [Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI) | | |
-| 7/19 | Chen Xinyi | [Emergence of Hierarchical Layers in A Single Sheet of Self-Organizing Spiking Neurons](https://openreview.net/forum?id=cPVuuk1lZb3) | | |
+| 7/12 | Song Zeyang | [Multimodal Speech Enhancement Using Burst Propagation](https://arxiv.org/abs/2209.03275) | | |
+| 7/19 | Chen Xinyi | [Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI) | | |
 | 7/26 | Ma Chenxiang | [Differentiable Hierarchical and Surrogate Gradient Search for Spiking Neural Networks](https://openreview.net/forum?id=Lr2Z85cdvB) | | |
 | 8/2 | Yang Qu | [Accurate online training of dynamical spiking neural networks through Forward Propagation Through Time](https://www.nature.com/articles/s42256-023-00650-4) | | |
-| 8/9 | Song Zeyang | [Population Geometry Enables Fast Sampling in Spiking Neural Networks](https://openreview.net/forum?id=Yopob26XjmL) | | |
+| 8/9 | Song Zeyang | [Emergence of Hierarchical Layers in A Single Sheet of Self-Organizing Spiking Neurons](https://openreview.net/forum?id=cPVuuk1lZb3)  | | |
 | 8/16 | Chen Xinyi | [DTMD: Learning Improvement of Spiking Neural Networks with Dynamic Thresholding Neurons and Moderate Dropout](https://openreview.net/forum?id=BbaSRgUHW3) | | |
 | 8/23 | Ma Chenxiang | [Biologically Inspired Dynamic Thresholds for Spiking Neural Networks](https://openreview.net/forum?id=1bE24ZURBqm) | | |
 | 8/30 | Yang Qu | [Temporal Effective Batch Normalization in Spiking Neural Networks](https://openreview.net/forum?id=fLIgyyQiJqz) | | |
@@ -37,10 +37,10 @@
 | 9/13 | Chen Xinyi | [Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles](https://openreview.net/forum?id=QIRtAqoXwj) | | |
 | 9/20 | Ma Chenxiang | [Spiking Convolutional Neural Networks for Text Classification](https://openreview.net/forum?id=pgU3k7QXuz0) | | |
 | 9/27  | Yang Qu | [Dendritic predictive coding: A theory of cortical computation with spiking neurons](https://arxiv.org/pdf/2205.05303.pdf) | | |
-| 10/4 | Song Zeyang | [Interactive continual learning for robots: a neuromorphic approach ](http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf)  | | |
+| 10/4 | Song Zeyang | [Interactive continual learning for robots: a neuromorphic approach](http://sandamirskaya.eu/resources/Interactive_Continual_Learning_for_Robots__Neuromorphic_Approach__ICONS_.pdf)  | | |
 | 10/11 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning](https://bii.ia.ac.cn/~tielin.zhang/pdfs/NeuroComputing_2022_MDN.pdf)  | | |
 | 10/18  | Ma Chenxiang | [Single-phase deep learning in cortico-cortical networks](https://arxiv.org/pdf/2206.11769.pdf) | | |
-| 10/25  | Yang Qu | [Multimodal Speech Enhancement Using Burst Propagation](https://arxiv.org/abs/2209.03275) | | |
+| 10/25  | Yang Qu | [Population Geometry Enables Fast Sampling in Spiking Neural Networks](https://openreview.net/forum?id=Yopob26XjmL) | | |
 
 # Presentation Slides 
 [Google Drive](https://drive.google.com/drive/folders/1LesEh5-bRQO0hIiFL4h5mPsh9ewuJ9go?usp=share_link) 
