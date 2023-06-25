@@ -28,8 +28,7 @@
 | 7/12 | Song Zeyang | [Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI) | | |
 | 7/19 | Chen Xinyi | [Emergence of Hierarchical Layers in A Single Sheet of Self-Organizing Spiking Neurons](https://openreview.net/forum?id=cPVuuk1lZb3) | | |
 | 7/26 | Ma Chenxiang | [Differentiable Hierarchical and Surrogate Gradient Search for Spiking Neural Networks](https://openreview.net/forum?id=Lr2Z85cdvB) | | |
-| 8/2 | Yang Qu | [Accurate online training of dynamical spiking neural networks through Forward Propagation Through Time
-](https://www.nature.com/articles/s42256-023-00650-4)| | |
+| 8/2 | Yang Qu | [Accurate online training of dynamical spiking neural networks through Forward Propagation Through Time](https://openreview.net/forum?id=Lr2Z85cdvB](https://www.nature.com/articles/s42256-023-00650-4) | | |
 | 8/9 | Song Zeyang | [Population Geometry Enables Fast Sampling in Spiking Neural Networks](https://openreview.net/forum?id=Yopob26XjmL) | | |
 | 8/16 | Chen Xinyi | [DTMD: Learning Improvement of Spiking Neural Networks with Dynamic Thresholding Neurons and Moderate Dropout](https://openreview.net/forum?id=BbaSRgUHW3) | | |
 | 8/23 | Ma Chenxiang | [Biologically Inspired Dynamic Thresholds for Spiking Neural Networks](https://openreview.net/forum?id=1bE24ZURBqm) | | |
