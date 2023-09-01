@@ -38,7 +38,7 @@
 | 10/18 | Ma Chenxiang | [A brain-inspired algorithm that mitigates catastrophic forgetting of artificial and spiking neural networks with low computational cost](https://www.science.org/doi/epdf/10.1126/sciadv.adi2947) | | |
 | 10/25  | Yang Qu | [Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks](https://arxiv.org/pdf/2308.12063.pdf) | | |
 | 11/1 | Song Zeyang | []()  | | |
-| 11/8 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning]([https://bii.ia.ac.cn/~tielin.zhang/pdfs/NeuroComputing_2022_MDN.pdf](http://140.143.150.151/pdfs/NeuroComputing_2022_MDN.pdf))  | | |
+| 11/8 | Chen Xinyi | [Meta neurons improve spiking neural networks for efficient spatio-temporal learning]([http://140.143.150.151/pdfs/NeuroComputing_2022_MDN.pdf])  | | |
 | 11/15  | Ma Chenxiang | [Single-phase deep learning in cortico-cortical networks](https://arxiv.org/pdf/2206.11769.pdf) | | |
 | 11/29  | Yang Qu | []() | | |
 
